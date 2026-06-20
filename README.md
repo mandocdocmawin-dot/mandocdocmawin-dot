@@ -5,43 +5,21 @@
 <br />
 
 <div align="center">
-  <a href="#gh-dark-mode-only">
-    <table width="550" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
-      <tr bgcolor="#161b22">
-        <td style="padding: 10px; border-bottom: 1px solid #30363d;">
-          <span style="font-size: 14px; letter-spacing: 4px;">🔴🟡🟢</span>
-        </td>
-        <td align="right" style="padding: 10px; border-bottom: 1px solid #30363d; font-family: monospace; color: #8b949e; font-size: 12px;">
-          marwin@developer:~ &nbsp;
-        </td>
-      </tr>
-      <tr bgcolor="#0d1117">
-        <td colspan="2" align="left" style="padding: 20px;">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=15&duration=3500&pause=1000&color=56d364&background=0D111700&center=false&vCenter=true&width=510&height=120&lines=marwin-mandocdoc+~+%24+cat+roles.md;%3E+Aspiring+Software+Developer...;%3E+Project+Manager...;%3E+Cybersecurity+Enthusiast...;marwin-mandocdoc+~+%24+./status.sh;%5B%E2%9C%93%5D+All+systems+operational!;marwin-mandocdoc+~+%24+▒" alt="Typing SVG Terminal Dark" />
-        </td>
-      </tr>
-    </table>
-  </a>
-</div>
-
-<div align="center">
-  <a href="#gh-light-mode-only">
-    <table width="550" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #d0d7de;">
-      <tr bgcolor="#f6f8fa">
-        <td style="padding: 10px; border-bottom: 1px solid #d0d7de;">
-          <span style="font-size: 14px; letter-spacing: 4px;">🔴🟡🟢</span>
-        </td>
-        <td align="right" style="padding: 10px; border-bottom: 1px solid #d0d7de; font-family: monospace; color: #57606a; font-size: 12px;">
-          marwin@developer:~ &nbsp;
-        </td>
-      </tr>
-      <tr bgcolor="#ffffff">
-        <td colspan="2" align="left" style="padding: 20px;">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=15&duration=3500&pause=1000&color=0969da&background=FFFFFF00&center=false&vCenter=true&width=510&height=120&lines=marwin-mandocdoc+~+%24+cat+roles.md;%3E+Aspiring+Software+Developer...;%3E+Project+Manager...;%3E+Cybersecurity+Enthusiast...;marwin-mandocdoc+~+%24+./status.sh;%5B%E2%9C%93%5D+All+systems+operational!;marwin-mandocdoc+~+%24+▒" alt="Typing SVG Terminal Light" />
-        </td>
-      </tr>
-    </table>
-  </a>
+  <table width="550" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
+    <tr style="background-color: #161b22;">
+      <td style="padding: 10px; border-bottom: 1px solid #30363d; background-color: #161b22;">
+        <span style="font-size: 14px; letter-spacing: 4px;">🔴🟡🟢</span>
+      </td>
+      <td align="right" style="padding: 10px; border-bottom: 1px solid #30363d; background-color: #161b22; font-family: monospace; color: #8b949e; font-size: 12px;">
+        marwin@developer:~ &nbsp;
+      </td>
+    </tr>
+    <tr style="background-color: #0d1117;">
+      <td colspan="2" align="left" style="padding: 20px; background-color: #0d1117;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=15&duration=3500&pause=1000&color=56d364&background=0D111700&center=false&vCenter=true&width=510&height=120&lines=marwin-mandocdoc+~+%24+cat+roles.md;%3E+Aspiring+Software+Developer...;%3E+Project+Manager...;%3E+Cybersecurity+Enthusiast...;marwin-mandocdoc+~+%24+./status.sh;%5B%E2%9C%93%5D+All+systems+operational!;marwin-mandocdoc+~+%24+▒" alt="Typing SVG Terminal" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
