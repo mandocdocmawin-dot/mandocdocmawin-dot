@@ -16,7 +16,7 @@
     </tr>
     <tr bgcolor="#0d1117">
       <td colspan="2" align="left" style="padding: 20px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=15&duration=3500&pause=1000&color=56d364&background=0D111700&center=false&vCenter=true&width=510&height=120&lines=marwin-mandocdoc+~+%24+cat+roles.md;%3E+Aspiring+Software+Developer...;%3E+Project+Manager...;%3E+Cybersecurity+Enthusiast...;marwin-mandocdoc+~+%24+./status.sh;%5B%E2%9C%93%5D+All+systems+operational!;marwin-mandocdoc+~+%24+▒" alt="Typing SVG Terminal" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=15&duration=3500&pause=1000&color=56d364&background=0D111700&center=false&vCenter=true&width=510&height=120&lines=marwin-mandocdoc+~+%24+cat+roles.md;%3E+Aspiring+Software+Developer...;%3E+Project+Manager...;%3E+Cybersecurity...;marwin-mandocdoc+~+%24+./status.sh;%5B%E2%9C%93%5D+All+systems+operational!;marwin-mandocdoc+~+%24+▒" alt="Typing SVG Terminal" />
       </td>
     </tr>
   </table>
