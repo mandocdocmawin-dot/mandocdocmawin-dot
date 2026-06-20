@@ -1,22 +1,26 @@
 <div align="center">
-<div style="max-width: 550px; border: 1px solid #30363d; border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.4); background-color: #0d1117; text-align: left; overflow: hidden; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-<div style="background-color: #161b22; padding: 10px; border-bottom: 1px solid #30363d; display: flex; align-items: center;">
-<div style="display: flex; gap: 6px;">
-<span style="background-color: #ff5f56; width: 12px; height: 12px; border-radius: 50%; display: inline-block;"></span>
-<span style="background-color: #ffbd2e; width: 12px; height: 12px; border-radius: 50%; display: inline-block;"></span>
-<span style="background-color: #27c93f; width: 12px; height: 12px; border-radius: 50%; display: inline-block;"></span>
-</div>
-<div style="color: #8b949e; font-size: 12px; font-family: monospace; margin: 0 auto; padding-right: 36px;">marwin@developer:~</div>
-</div>
-<div style="padding: 15px; font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.6; color: #c9d1d9;">
-<span style="color: #58a6ff;">marwin-mandocdoc</span> <span style="color: #ff7b72;">~</span> <span style="color: #8b949e;">$</span> cat introduction.md<br />
-<span style="color: #79c0ff;">&gt; Aspiring Software Developer, Project Manager, &amp; Cybersecurity Enthusiast.</span><br />
-<span style="color: #58a6ff;">marwin-mandocdoc</span> <span style="color: #ff7b72;">~</span> <span style="color: #8b949e;">$</span> ./get_status.sh<br />
-<span style="color: #56d364;">[✓] Coding skills loaded successfully.</span><br />
-<span style="color: #56d364;">[✓] Open for collaborations.</span><br />
-<span style="color: #58a6ff;">marwin-mandocdoc</span> <span style="color: #ff7b72;">~</span> <span style="color: #8b949e;">$</span> ▒
-</div>
-</div>
+  <table width="550" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
+    <tr bgcolor="#161b22">
+      <td padding="10" style="padding: 10px; border-bottom: 1px solid #30363d;">
+        <span style="font-size: 14px; letter-spacing: 4px;">🔴🟡🟢</span>
+      </td>
+      <td align="right" style="padding: 10px; border-bottom: 1px solid #30363d; font-family: monospace; color: #8b949e; font-size: 12px;">
+        marwin@developer:~ &nbsp;
+      </td>
+    </tr>
+    <tr bgcolor="#0d1117">
+      <td colspan="2" align="left" style="padding: 18px; font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.6; color: #c9d1d9;">
+        <span style="color: #58a6ff;">marwin-mandocdoc</span> <span style="color: #ff7b72;">~</span> <span style="color: #8b949e;">$</span> cat introduction.md<br />
+        <span style="color: #79c0ff;">&gt; Aspiring Software Developer, Project Manager, &amp; Cybersecurity Enthusiast.</span><br />
+        <br />
+        <span style="color: #58a6ff;">marwin-mandocdoc</span> <span style="color: #ff7b72;">~</span> <span style="color: #8b949e;">$</span> ./get_status.sh<br />
+        <span style="color: #56d364;">[✓] Coding skills loaded successfully.</span><br />
+        <span style="color: #56d364;">[✓] Open for collaborations.</span><br />
+        <br />
+        <span style="color: #58a6ff;">marwin-mandocdoc</span> <span style="color: #ff7b72;">~</span> <span style="color: #8b949e;">$</span> ▒
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
