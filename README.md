@@ -1,7 +1,7 @@
 <div align="center">
   <table width="550" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d;">
     <tr bgcolor="#161b22">
-      <td padding="10" style="padding: 10px; border-bottom: 1px solid #30363d;">
+      <td style="padding: 10px; border-bottom: 1px solid #30363d;">
         <span style="font-size: 14px; letter-spacing: 4px;">🔴🟡🟢</span>
       </td>
       <td align="right" style="padding: 10px; border-bottom: 1px solid #30363d; font-family: monospace; color: #8b949e; font-size: 12px;">
@@ -9,15 +9,8 @@
       </td>
     </tr>
     <tr bgcolor="#0d1117">
-      <td colspan="2" align="left" style="padding: 18px; font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.6; color: #c9d1d9;">
-        <span style="color: #58a6ff;">marwin-mandocdoc</span> <span style="color: #ff7b72;">~</span> <span style="color: #8b949e;">$</span> cat introduction.md<br />
-        <span style="color: #79c0ff;">&gt; Aspiring Software Developer, Project Manager, &amp; Cybersecurity Enthusiast.</span><br />
-        <br />
-        <span style="color: #58a6ff;">marwin-mandocdoc</span> <span style="color: #ff7b72;">~</span> <span style="color: #8b949e;">$</span> ./get_status.sh<br />
-        <span style="color: #56d364;">[✓] Coding skills loaded successfully.</span><br />
-        <span style="color: #56d364;">[✓] Open for collaborations.</span><br />
-        <br />
-        <span style="color: #58a6ff;">marwin-mandocdoc</span> <span style="color: #ff7b72;">~</span> <span style="color: #8b949e;">$</span> ▒
+      <td colspan="2" align="left" style="padding: 20px;">
+        <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=15&duration=3500&pause=1000&color=56d364&background=0D111700&center=false&vCenter=true&width=510&height=120&lines=marwin-mandocdoc+~+%2524+cat+intro.md;%3E+Aspiring+Software+Developer...;marwin-mandocdoc+~+%2524+./check_skills.sh;%5B%E2%9C%93%5D+Cybersecurity+%26+Project+Management;marwin-mandocdoc+~+%2524+echo+Welcome+to+my+profile!" alt="Typing SVG Terminal" />
       </td>
     </tr>
   </table>
