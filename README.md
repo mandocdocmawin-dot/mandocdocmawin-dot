@@ -69,12 +69,6 @@
   </tr>
   <tr>
     <td align="center">
-      <h4>🎮 Game Engines</h4>
-      <p>
-        <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>
-      </p>
-    </td>
-    <td align="center">
       <h4>🐧 Other Tools</h4>
       <p>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> &nbsp;
