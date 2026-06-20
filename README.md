@@ -60,7 +60,7 @@
       </p>
     </td>
     <td align="center">
-      <h4>🗄️ Backend Development</h4>
+      <h4>🗄️ Database</h4>
       <p>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
