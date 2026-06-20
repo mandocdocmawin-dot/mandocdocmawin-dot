@@ -5,18 +5,18 @@
 <br />
 
 <div align="center">
-  <table width="550" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117;">
-    <tr style="background-color: #161b22;">
-      <td style="padding: 10px; border-bottom: 1px solid #30363d; background-color: #161b22;">
+  <table width="550" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: 1px solid #30363d; background-color: #0d1117 !important;">
+    <tr bgcolor="#161b22" style="background-color: #161b22 !important;">
+      <td bgcolor="#161b22" style="padding: 10px; border-bottom: 1px solid #30363d; background-color: #161b22 !important;">
         <span style="font-size: 14px; letter-spacing: 4px;">🔴🟡🟢</span>
       </td>
-      <td align="right" style="padding: 10px; border-bottom: 1px solid #30363d; background-color: #161b22; font-family: monospace; color: #8b949e; font-size: 12px;">
+      <td bgcolor="#161b22" align="right" style="padding: 10px; border-bottom: 1px solid #30363d; background-color: #161b22 !important; font-family: monospace; color: #8b949e; font-size: 12px;">
         marwin@developer:~ &nbsp;
       </td>
     </tr>
-    <tr style="background-color: #0d1117;">
-      <td colspan="2" align="left" style="padding: 20px; background-color: #0d1117;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=15&duration=3500&pause=1000&color=56d364&background=0D111700&center=false&vCenter=true&width=510&height=120&lines=marwin-mandocdoc+~+%24+cat+roles.md;%3E+Aspiring+Software+Developer...;%3E+Project+Manager...;%3E+Cybersecurity+Enthusiast...;marwin-mandocdoc+~+%24+./status.sh;%5B%E2%9C%93%5D+All+systems+operational!;marwin-mandocdoc+~+%24+▒" alt="Typing SVG Terminal" />
+    <tr bgcolor="#0d1117" style="background-color: #0d1117 !important;">
+      <td bgcolor="#0d1117" colspan="2" align="left" style="padding: 20px; background-color: #0d1117 !important;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=15&duration=3500&pause=1000&color=56d364&background=0D111700&center=false&vCenter=true&width=510&height=120&lines=marwin-mandocdoc+~+%24+cat+roles.md;%3E+Aspiring+Software+Developer...;%3E+Project+Manager...;%3E+Cybersecurity+Enthusiast...;marwin-mandocdoc+~+%24+./status.sh;%5B%E2%9C%93%5D+All+systems+operational!;marwin-mandocdoc+~+%24+▒" alt="Typing SVG Terminal Permanent Dark" />
       </td>
     </tr>
   </table>
