@@ -16,7 +16,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.recent.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_sections: recently-used
@@ -30,7 +30,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.people.followers.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_people: yes
           plugin_people_types: followers
