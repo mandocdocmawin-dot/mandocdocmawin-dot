@@ -1,4 +1,4 @@
-name: Generate Language Metrics
+name: Generate Metrics
 
 on:
   schedule:
@@ -11,6 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Unang step: Ang iyong orihinal na language metrics[cite: 2]
       - name: Recently used
         uses: lowlighter/metrics@latest
         with:
@@ -22,4 +23,16 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
           plugin_languages_recent_days: 5
-          plugin_languages_recent_load: 30 
+          plugin_languages_recent_load: 30
+
+      # Pangalawang step: Ang bagong followers section
+      - name: Followers
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.people.followers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers
+          plugin_people_limit: 24
+          plugin_people_size: 28

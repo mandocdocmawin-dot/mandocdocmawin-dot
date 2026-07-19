@@ -83,8 +83,19 @@
     </div>
   </details>
 
+  <br />
+
+  <!-- Followers Section -->
+  <details open>
+    <summary><b>▼ Followers</b></summary>
+    <div align="center">
+      <br />
+      <!-- Dito natin tinatawag yung file na na-generate ng GitHub Action -->
+      <img src="metrics.plugin.people.followers.svg" alt="My Followers" width="100%" style="max-width: 480px;" />
+    </div>
+  </details>
+
   </div>
-</div>
 
 <br />
 
