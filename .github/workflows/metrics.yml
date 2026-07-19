@@ -21,8 +21,9 @@ jobs:
           sudo systemctl start docker || true
           sudo usermod -aG docker $USER || true
 
+      # Palitan ang @v3 ng @latest sa "Recently used" step
       - name: Recently used
-        uses: lowlighter/metrics@v3.34.0
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.recent.svg
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
@@ -34,8 +35,9 @@ jobs:
           plugin_languages_recent_days: 5
           plugin_languages_recent_load: 30
 
+      # Palitan din ang @v3 ng @latest sa "Followers" step
       - name: Followers
-        uses: lowlighter/metrics@v3.34.0
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.people.followers.svg
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
