@@ -18,12 +18,19 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y jq docker.io
+          # Start Docker (systemctl may not be available in all runners; tolerate failure)
           sudo systemctl start docker || true
+          # Add the runner user to docker group so docker can be used without sudo if needed
           sudo usermod -aG docker $USER || true
 
-      # Palitan ang @v3 ng @latest sa "Recently used" step
+      - name: "Debug: runner tools"
+        run: |
+          echo "jq:" && jq --version || true
+          echo "docker:" && docker --version || true
+          echo "node:" && node --version || true
+
       - name: Recently used
-        uses: lowlighter/metrics@latest # Pinapanatili natin ang 'latest' o 'v3.34.0'
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.recent.svg
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
@@ -33,10 +40,9 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
           plugin_languages_recent_days: 5
-          # ⬇️ Idinagdag natin ang fallback upang hindi mag-crash kapag pumalya ang analyzer
+          # Fallback to avoid analyzer trying to load recent files when it causes crashes
           plugin_languages_recent_load: 0
 
-      # Palitan din ang @v3 ng @latest sa "Followers" step
       - name: Followers
         uses: lowlighter/metrics@latest
         with:
