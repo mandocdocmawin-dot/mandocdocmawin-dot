@@ -11,26 +11,34 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Unang step: In-update natin para maiwasan ang error sa recent commits
-      - name: Languages used
-        uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Ensure dependencies (jq and docker)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq docker.io
+          sudo systemctl start docker || true
+          sudo usermod -aG docker $USER || true
+
+      - name: Recently used
+        uses: lowlighter/metrics@v3.34.0
         with:
           filename: metrics.plugin.languages.recent.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           base: ""
           plugin_languages: yes
-          # ⬇️ Pinalitan ang 'recently-used' ng 'most-used'
-          plugin_languages_sections: most-used
+          plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
-          # Tinanggal na natin ang plugin_languages_recent_days at load dahil hindi na ito kailangan
+          plugin_languages_recent_days: 5
+          plugin_languages_recent_load: 30
 
-      # Pangalawang step: Ang iyong followers section[cite: 3]
       - name: Followers
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34.0
         with:
           filename: metrics.plugin.people.followers.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           base: ""
           plugin_people: yes
           plugin_people_types: followers
