@@ -1,0 +1,21 @@
+{
+  "name": "mandocdocmawin-dot",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r   <h1>Hi 👋, I'm Marwin Mandocdoc</h1>\r   <p><i>Aspiring Software Developer | Project Manager | Cybersecurity Enthusiast</i></p>\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandocdocmawin-dot/mandocdocmawin-dot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mandocdocmawin-dot/mandocdocmawin-dot/issues"
+  },
+  "homepage": "https://github.com/mandocdocmawin-dot/mandocdocmawin-dot#readme"
+}
