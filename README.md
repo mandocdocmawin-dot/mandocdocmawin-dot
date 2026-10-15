@@ -24,7 +24,7 @@ I am an aspiring junior software developer learning through practical projects. 
 <br />
 <p><img src="https://img.shields.io/badge/LANGUAGES-0d1117?style=for-the-badge&amp;logo=javascript&amp;logoColor=58a6ff" alt="LANGUAGES" /></p>
 <p><sub>&nbsp;</sub></p>
-<p><img src="https://skillicons.dev/icons?i=js,python,php,bash&amp;theme=dark&amp;perline=6" alt="JavaScript, Python, PHP, Bash" width="175" height="40" /></p>
+<p><img src="https://skillicons.dev/icons?i=js,ts,python,php,bash&amp;theme=dark&amp;perline=6" alt="JavaScript, TypeScript, Python, PHP, Bash" width="220" height="40" /></p>
 <br />
 </td>
 <td width="33.33%" valign="top" align="center">
@@ -71,12 +71,21 @@ I am an aspiring junior software developer learning through practical projects. 
 <table>
 <tr>
 <td width="50%" valign="top">
+<p><img src="assets/projects/crm-preview.png" alt="Sulong CRM dashboard with sample data" width="400" /></p>
+<h3><a href="https://crm-rosy-psi.vercel.app/">Sulong CRM</a></h3>
+<p>A frontend demo for managing contacts, sales deals, and follow-up tasks.</p>
+<p><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Tailwind CSS" /></p>
+<p><a href="https://crm-rosy-psi.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=58a6ff" alt="Live Demo" /></a><br /><a href="https://github.com/mandocdocmawin-dot/CRM"><img src="https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=58a6ff" alt="Source Code" /></a></p>
+</td>
+<td width="50%" valign="top">
 <p><img src="assets/projects/reviewhub.png" alt="ReviewHub: Study &amp; Task Tracker project preview" width="400" /></p>
 <h3>ReviewHub: Study &amp; Task Tracker</h3>
 <p>Organizes review questions, weekly schedules, and student deadlines.</p>
 <p><img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="PHP" /> <img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="SQLite" /> <img src="https://img.shields.io/badge/Bootstrap%205-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Bootstrap 5" /> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="JavaScript" /></p>
 <p><img src="https://img.shields.io/badge/Live%20Demo-Unavailable-0d1117?style=for-the-badge&amp;labelColor=30363d" alt="Live demo link unavailable" /><br /><a href="https://github.com/mandocdocmawin-dot/reviewer"><img src="https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=58a6ff" alt="Source Code" /></a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <p><img src="assets/projects/classsched.png" alt="ClassSched project preview" width="400" /></p>
 <h3>ClassSched</h3>
@@ -84,8 +93,6 @@ I am an aspiring junior software developer learning through practical projects. 
 <p><img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="PHP" /> <img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="SQLite" /> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML%20%26%20CSS-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="HTML &amp; CSS" /></p>
 <p><img src="https://img.shields.io/badge/Live%20Demo-Unavailable-0d1117?style=for-the-badge&amp;labelColor=30363d" alt="Live demo link unavailable" /><br /><a href="https://github.com/itsmeydrey/wad-rwd-final-project"><img src="https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=58a6ff" alt="Source Code" /></a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <p><img src="assets/projects/lexitype.png" alt="LexiType typing trainer preview" width="400" /></p>
 <h3><a href="https://lexitype.onrender.com/">LexiType: AI-Powered Typing Trainer</a></h3>
@@ -93,7 +100,9 @@ I am an aspiring junior software developer learning through practical projects. 
 <p><img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Laravel" /> <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="React" /> <img src="https://img.shields.io/badge/Inertia-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Inertia" /> <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Tailwind" /> <img src="https://img.shields.io/badge/Gemini%20API-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Gemini API" /></p>
 <p><a href="https://lexitype.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=58a6ff" alt="Live Demo" /></a><br /><a href="https://github.com/mandocdocmawin-dot/LexiType"><img src="https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=58a6ff" alt="Source Code" /></a></p>
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
 <p><img src="assets/projects/smart-class-scheduler.png" alt="Smart Class Scheduler preview" width="400" /></p>
 <h3><a href="https://class-sched.vercel.app/">Smart Class Scheduler</a></h3>
 <p>Displays class schedules using Google sign-in and live Google Sheets data.</p>
@@ -145,6 +154,15 @@ I am an aspiring junior software developer learning through practical projects. 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mandocdocmawin-dot&amp;disable_animations=true&amp;theme=dark&amp;background=0d1117&amp;border=30363d&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakNum=58a6ff&amp;sideNums=c9d1d9&amp;currStreakLabel=58a6ff&amp;sideLabels=c9d1d9&amp;dates=8b949e" alt="GitHub contribution streak for Marwin Mandocdoc" height="165" />
 </p>
+
+<div align="center">
+  <p><strong>Contribution Activity</strong></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mandocdocmawin-dot/mandocdocmawin-dot/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mandocdocmawin-dot/mandocdocmawin-dot/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/mandocdocmawin-dot/mandocdocmawin-dot/output/github-snake.svg" alt="Animated contribution graph" width="854" />
+  </picture>
+</div>
 
 <br />
 
