@@ -14,34 +14,54 @@ I am an aspiring junior software developer learning through practical projects. 
 
 <br />
 
-<h3>Tech Stack</h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=58a6ff&amp;height=24" alt="" width="72" height="2" />
+<h3>Tech Stack</h3>
+<p><sub>Technologies I build and learn with</sub></p>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="150" valign="middle"><strong>Languages</strong></td>
-<td width="540"><p><img src="https://skillicons.dev/icons?i=js,python,php,bash&amp;theme=dark" alt="JavaScript, Python, PHP, Bash" height="40" /></p></td>
+<td width="33.33%" valign="top" align="center">
+<br />
+<p><img src="https://img.shields.io/badge/LANGUAGES-0d1117?style=for-the-badge&amp;logo=javascript&amp;logoColor=58a6ff" alt="LANGUAGES" /></p>
+<p><sub>&nbsp;</sub></p>
+<p><img src="https://skillicons.dev/icons?i=js,python,php,bash&amp;theme=dark&amp;perline=6" alt="JavaScript, Python, PHP, Bash" width="175" height="40" /></p>
+<br />
+</td>
+<td width="33.33%" valign="top" align="center">
+<br />
+<p><img src="https://img.shields.io/badge/FRONTEND-0d1117?style=for-the-badge&amp;logo=react&amp;logoColor=58a6ff" alt="FRONTEND" /></p>
+<p><sub>&nbsp;</sub></p>
+<p><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&amp;theme=dark&amp;perline=6" alt="HTML5, CSS3, React, Tailwind CSS, Bootstrap" width="220" height="40" /></p>
+<br />
+</td>
+<td width="33.33%" valign="top" align="center">
+<br />
+<p><img src="https://img.shields.io/badge/BACKEND%20%26%20DATABASES-0d1117?style=for-the-badge&amp;logo=laravel&amp;logoColor=58a6ff" alt="BACKEND &amp; DATABASES" /></p>
+<p><sub>Backend &nbsp; · &nbsp; Databases</sub></p>
+<p><img src="https://skillicons.dev/icons?i=laravel&amp;theme=dark&amp;perline=6" alt="Laravel" width="40" height="40" /> &nbsp; <img src="https://skillicons.dev/icons?i=mysql,sqlite&amp;theme=dark&amp;perline=6" alt="MySQL, SQLite" width="85" height="40" /></p>
+<br />
+</td>
 </tr>
 <tr>
-<td width="150" valign="middle"><strong>Frontend</strong></td>
-<td width="540"><p><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&amp;theme=dark" alt="HTML5, CSS3, React, Tailwind CSS, Bootstrap" height="40" /></p></td>
-</tr>
-<tr>
-<td width="150" valign="middle"><strong>Backend</strong></td>
-<td width="540"><p><img src="https://skillicons.dev/icons?i=laravel&amp;theme=dark" alt="Laravel" height="40" /></p></td>
-</tr>
-<tr>
-<td width="150" valign="middle"><strong>Databases</strong></td>
-<td width="540"><p><img src="https://skillicons.dev/icons?i=sqlite,mysql&amp;theme=dark" alt="SQLite, MySQL" height="40" /></p></td>
-</tr>
-<tr>
-<td width="150" valign="middle"><strong>Tools</strong></td>
-<td width="540"><p><img src="https://skillicons.dev/icons?i=git,github,linux,vite,vitest,vercel&amp;theme=dark" alt="Git, GitHub, Linux, Vite, Vitest, Vercel" height="40" /></p></td>
+<td width="33.33%" valign="top" align="center">
+<br />
+<p><img src="https://img.shields.io/badge/TOOLS-0d1117?style=for-the-badge&amp;logo=git&amp;logoColor=58a6ff" alt="TOOLS" /></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,linux,vite,vitest,vercel&amp;theme=dark&amp;perline=6" alt="Git, GitHub, Linux, Vite, Vitest, Vercel" width="265" height="40" /></p>
+<br />
+</td>
+<td width="66.67%" colspan="2" valign="top" align="center">
+<br />
+<p><img src="https://img.shields.io/badge/ALSO%20USED%20IN%20PROJECTS-0d1117?style=for-the-badge&amp;logo=render&amp;logoColor=58a6ff" alt="ALSO USED IN PROJECTS" /></p>
+<p><img src="https://img.shields.io/badge/Inertia.js-0d1117?style=flat-square&amp;logo=inertia&amp;logoColor=58a6ff" alt="Inertia.js" />
+<img src="https://img.shields.io/badge/Google%20OAuth-0d1117?style=flat-square&amp;logo=google&amp;logoColor=58a6ff" alt="Google OAuth" />
+<img src="https://img.shields.io/badge/Google%20Sheets%20API-0d1117?style=flat-square&amp;logo=googlesheets&amp;logoColor=58a6ff" alt="Google Sheets API" /><br />
+<img src="https://img.shields.io/badge/Apps%20Script-0d1117?style=flat-square&amp;logo=googleappsscript&amp;logoColor=58a6ff" alt="Apps Script" />
+<img src="https://img.shields.io/badge/Gemini%20API-0d1117?style=flat-square&amp;logo=googlegemini&amp;logoColor=58a6ff" alt="Gemini API" />
+<img src="https://img.shields.io/badge/Render-0d1117?style=flat-square&amp;logo=render&amp;logoColor=58a6ff" alt="Render" /></p>
+<br />
+</td>
 </tr>
 </table>
-
-<p><strong>Also used in projects</strong></p>
-<p><img src="https://img.shields.io/badge/Inertia.js-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Inertia.js" /> <img src="https://img.shields.io/badge/Google%20OAuth-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Google OAuth" /> <img src="https://img.shields.io/badge/Google%20Sheets%20API-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Google Sheets API" /> <img src="https://img.shields.io/badge/Apps%20Script-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Apps Script" /> <img src="https://img.shields.io/badge/Gemini%20API-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Gemini API" /> <img src="https://img.shields.io/badge/Render-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Render" /></p>
 
 <br />
 
