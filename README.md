@@ -10,7 +10,7 @@
 <h3>About Me</h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=58a6ff&amp;height=24" alt="" width="72" height="2" />
 
-I am an aspiring junior software developer learning through practical projects. I build web applications with Laravel and React, alongside PHP and SQLite tools and Python command-line applications. I participate in competitions and am developing my knowledge of project management and cybersecurity. I am seeking an entry-level opportunity to learn and contribute to a team.
+I am an aspiring junior software developer learning through practical projects. I build web applications with Laravel and React, alongside PHP and SQLite tools and Python command-line applications. I participate in competitions and am developing my knowledge of project management and cybersecurity.. I am seeking an entry-level opportunity to learn and contribute to a team.
 
 <br />
 
