@@ -134,8 +134,17 @@ I am an aspiring junior software developer learning through practical projects. 
 
 | Title | Issuer/Organizer | Year | Result |
 | --- | --- | --- | --- |
+| [Cybersecurity Awareness Webinar: “Don’t Make It Easy for Them”](assets/certificates/cybersecurity-awareness-webinar-2026.pdf)<br /><a href="assets/certificates/cybersecurity-awareness-webinar-2026.pdf"><img src="assets/certificates/cybersecurity-awareness-webinar-2026.png" alt="Cybersecurity awareness webinar participation certificate preview; open PDF" width="120" /></a><br /><sub>October 28 · Via Zoom</sub> | La Verdad Christian College, Inc. | 2026 | Certificate of Participation |
+| [Youth Hackathon 2026](assets/certificates/unesco-youth-hackathon-2026.pdf)<br /><a href="assets/certificates/unesco-youth-hackathon-2026.pdf"><img src="assets/certificates/unesco-youth-hackathon-2026.png" alt="UNESCO Youth Hackathon participation certificate preview; open PDF" width="120" /></a><br /><sub>October 24 · Play Your Part: Youth Designing the Future of Media and Information Literacy</sub> | UNESCO | 2026 | Certificate of Participation |
+| [HackForGov 2026 — Region 3 Regional Qualifying Round](assets/certificates/hackforgov-2026-award.jpg)<br /><a href="assets/certificates/hackforgov-2026-award.jpg"><img src="assets/certificates/hackforgov-2026-award.jpg" alt="Cyverdarian Rebirths team awarded second runner-up at HackForGov 2026 Region 3" width="120" /></a><br /><sub>October 20 · [Scoreboard](assets/certificates/hackforgov-2026-scoreboard.jpg) · [Group photo](assets/certificates/hackforgov-2026-group.jpg)</sub> | DICT Region III | 2026 | 🥉 **2nd runner-up** (Team Cyverdarian Rebirths) |
 | [Can You HackIT: The IBPAP Challenge (Clark)](assets/certificates/ibpap-can-you-hackit-2026.pdf)<br /><a href="assets/certificates/ibpap-can-you-hackit-2026.pdf"><img src="assets/certificates/ibpap-can-you-hackit-2026.png" alt="IBPAP participation certificate preview; open PDF" width="120" /></a><br /><sub>October 9 · Skyclub Event Center, Angeles, Pampanga</sub> | IBPAP (IT &amp; Business Process Association Philippines) | 2026 | Certificate of Participation (Team La VerDevs) |
 | [Startup Mentors’ Enablement](assets/certificates/startup-mentors.webp) | DICT · ICT Industry Development Bureau | 2026 | Certificate of completion |
+
+<details>
+<summary><strong>View nine more certifications &amp; competitions</strong></summary>
+
+| Title | Issuer/Organizer | Year | Result |
+| --- | --- | --- | --- |
 | [Behind the Screen: Game Art Webinar](assets/certificates/game-art.webp) | DICT & Cybercraft PH | 2026 | Certificate of attendance |
 | [AGAPAY — Next-Gen Startup Challenge](assets/certificates/agapay.webp) | Info-Systems Next-Gen | 2026 | Participation (AGAPAY team) |
 | [9th ICT Week — Capture the Flag](assets/certificates/ict-week.webp) | Association of ICT Majors | 2026 | 🥈 **1st runner-up** (team) |
@@ -145,6 +154,8 @@ I am an aspiring junior software developer learning through practical projects. 
 | [Micro Short Film](assets/certificates/micro-film.webp) | Regional Assembly on Information Technology Education (RAITE 2026) | 2026 | 🏅 **Social Impact Award** (team) |
 | [Men’s Chess — Team](assets/certificates/chess.webp) | LVCC Higher Education | 2026 | 🏆 **Champion** (team) |
 | Trend Micro University CTF<br /><sub>Certified August 22, 2025</sub> | Trend Micro | 2025 | 62nd place |
+
+</details>
 
 <br />
 
