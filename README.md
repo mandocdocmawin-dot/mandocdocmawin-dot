@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:58a6ff&amp;height=220&amp;section=header&amp;text=Marwin%20Mandocdoc&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;animation=fadeIn" alt="Marwin Mandocdoc" width="100%" />
   <p>Aspiring Junior Software Developer | Learning Project Management and Cybersecurity</p>
-  <p><a href="https://www.linkedin.com/in/marwin-mandocdoc-213668369/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=58a6ff" alt="LinkedIn" /></a>
+  <p><a href="https://marwinmandocdoc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=58a6ff" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/marwin-mandocdoc-213668369/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=58a6ff" alt="LinkedIn" /></a>
   <a href="mailto:mawin.mandocdoc@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=58a6ff" alt="Email" /></a></p>
 </div>
 
@@ -113,10 +114,11 @@ I am an aspiring junior software developer learning through practical projects. 
 </table>
 
 <details>
-<summary><strong>Explore seven more projects</strong></summary>
+<summary><strong>Explore eight more projects</strong></summary>
 
 | Project | Description | Technologies | Links |
 | --- | --- | --- | --- |
+| POS System | A web-based point-of-sale application. | Vercel | [Live demo](https://pos-system-gamma-taupe.vercel.app/) |
 | Two Pointers Visualizer | Visualizes a two-pointer search for a pair of numbers with a target sum. | Python, Algorithms, Two Pointers | Demo / source: links unavailable |
 | LighTerm: Terminal Bible App | A terminal Bible reader with bookmarks, search history, and custom search algorithms. | Python, Trie & Tree, Hash Table, Deque, Boyer-Moore | Demo / source: links unavailable |
 | Cyverdarian CLI | A command-line toolkit with cipher, hash, XOR, and forensics helpers for CTFs. | Bash, Python, CTF, CLI | Demo / source: links unavailable |
@@ -181,7 +183,8 @@ I am an aspiring junior software developer learning through practical projects. 
   <h3>Let’s Connect</h3>
   <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=58a6ff&amp;height=24" alt="" width="72" height="2" />
   <p>Open to entry-level opportunities and collaborations.</p>
-  <p><a href="https://www.linkedin.com/in/marwin-mandocdoc-213668369/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=58a6ff" alt="LinkedIn" /></a>
+  <p><a href="https://marwinmandocdoc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=58a6ff" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/marwin-mandocdoc-213668369/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=58a6ff" alt="LinkedIn" /></a>
   <a href="mailto:mawin.mandocdoc@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=58a6ff" alt="Email" /></a></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,100:58a6ff&amp;height=100&amp;section=footer" alt="Dark wave footer" width="100%" />
 </div>
