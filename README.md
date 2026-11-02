@@ -79,11 +79,11 @@ I am an aspiring junior software developer learning through practical projects. 
 <p><a href="https://crm-rosy-psi.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=58a6ff" alt="Live Demo" /></a><br /><a href="https://github.com/mandocdocmawin-dot/CRM"><img src="https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=58a6ff" alt="Source Code" /></a></p>
 </td>
 <td width="50%" valign="top">
-<p><img src="assets/projects/reviewhub.png" alt="ReviewHub: Study &amp; Task Tracker project preview" width="400" /></p>
-<h3>ReviewHub: Study &amp; Task Tracker</h3>
-<p>Organizes review questions, weekly schedules, and student deadlines.</p>
-<p><img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="PHP" /> <img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="SQLite" /> <img src="https://img.shields.io/badge/Bootstrap%205-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Bootstrap 5" /> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="JavaScript" /></p>
-<p><img src="https://img.shields.io/badge/Live%20Demo-Unavailable-0d1117?style=for-the-badge&amp;labelColor=30363d" alt="Live demo link unavailable" /><br /><a href="https://github.com/mandocdocmawin-dot/reviewer"><img src="https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=58a6ff" alt="Source Code" /></a></p>
+<p><a href="https://pos-system-gamma-taupe.vercel.app/"><img src="assets/projects/pos-system.png" alt="TindaPOS dashboard showing sample sales, orders, and inventory data" width="400" /></a></p>
+<h3><a href="https://pos-system-gamma-taupe.vercel.app/">POS System — TindaPOS</a></h3>
+<p>A frontend point-of-sale demo connecting sales, inventory, staff, and reports with browser-local data.</p>
+<p><img src="https://img.shields.io/badge/IndexedDB-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="IndexedDB" /> <img src="https://img.shields.io/badge/PWA-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="PWA" /> <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&amp;labelColor=30363d&amp;color=0d1117" alt="Vercel" /></p>
+<p><a href="https://pos-system-gamma-taupe.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=58a6ff" alt="Live Demo" /></a></p>
 </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ I am an aspiring junior software developer learning through practical projects. 
 
 | Project | Description | Technologies | Links |
 | --- | --- | --- | --- |
-| POS System | A web-based point-of-sale application. | Vercel | [Live demo](https://pos-system-gamma-taupe.vercel.app/) |
+| ReviewHub: Study & Task Tracker | Organizes review questions, weekly schedules, and student deadlines. | PHP, SQLite, Bootstrap 5, JavaScript | Live demo: link unavailable · [Source code](https://github.com/mandocdocmawin-dot/reviewer) |
 | Two Pointers Visualizer | Visualizes a two-pointer search for a pair of numbers with a target sum. | Python, Algorithms, Two Pointers | Demo / source: links unavailable |
 | LighTerm: Terminal Bible App | A terminal Bible reader with bookmarks, search history, and custom search algorithms. | Python, Trie & Tree, Hash Table, Deque, Boyer-Moore | Demo / source: links unavailable |
 | Cyverdarian CLI | A command-line toolkit with cipher, hash, XOR, and forensics helpers for CTFs. | Bash, Python, CTF, CLI | Demo / source: links unavailable |
